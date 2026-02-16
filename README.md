@@ -12,7 +12,7 @@ This is a clean, minimalist profile card built with HTML and CSS. It features:
 
 ## Live here
 
-[Click Here](https://nandinikesamreddy.github.io/profile-card/)
+[Click Here](https://nandhinikesamreddy.github.io/profile-card/)
 
 ## Features
 
@@ -73,4 +73,5 @@ Kesamreddy Nandini (Budankay)
 
 
 This project is open source and available under the [MIT License](LICENSE).
+
 
